@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "username1": "psw1" },
+    { "id": 2, "username2": "psw2" },
+    { "id": 3, "username3": "psw3" }
+  ],
+  "profile": {
+    "name": "TioSam"
+  }
+}
