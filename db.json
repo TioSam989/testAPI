@@ -1,8 +1,8 @@
 {
   "users": [
-    { "id": 1, "username1": "psw1" },
-    { "id": 2, "username2": "psw2" },
-    { "id": 3, "username3": "psw3" }
+    { "id": 1, "username": "username1", "password":"psw1" },
+    { "id": 2, "username": ,"username2", "password":"psw2"},
+    { "id": 3, "username": ,"username3", "password":"psw3" }
   ],
   "profile": {
     "name": "TioSam"
